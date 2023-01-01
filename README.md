@@ -1,6 +1,6 @@
 # STARTERS 취업부트캠프 최종평가(Android)
 
-### 평가 안내 ([노션 링크](https://www.notion.so/flearnerhq/STARTERS-Android-fecf7506c7d74f6ebb4fb02c694a8dbe))
+### 평가 안내 ([노션 링크](https://www.notion.so/flearnerhq/STARTERS-Android-fd43f021f2c94472a53a52edc322a122))
 
 ---
 
